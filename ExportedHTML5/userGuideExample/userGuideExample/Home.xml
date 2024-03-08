@@ -1,0 +1,198 @@
+<?xml version='1.0'?>
+<home version='7200' exportFlags='17' name='userGuideExample.sh3d' camera='topCamera' wallHeight='250.0'>
+  <environment groundColor='006F7578' skyColor='FFF4F4F5' lightColor='00CFCFCF' observerCameraElevationAdjusted='false'>
+    <observerCamera attribute='cameraPath' id='observerCamera-21bc3f8a-29d3-446e-803c-0dbf008681a5' lens='PINHOLE' x='472.97394' y='694.1304' z='169.99733' yaw='-10.059396' pitch='0.26495355' fieldOfView='1.134464' time='1286884800069'/>
+    <observerCamera attribute='cameraPath' id='observerCamera-0d0a22d5-840f-4726-8e3c-7c44cb7b3d52' lens='PINHOLE' x='354.39972' y='533.0708' z='169.99733' yaw='-11.106593' pitch='0.38712654' fieldOfView='1.134464' time='1286884800069'/>
+    <observerCamera attribute='cameraPath' id='observerCamera-82cae703-b3f1-429a-9eff-65e777a04d45' lens='PINHOLE' x='218.03947' y='347.8523' z='169.99733' yaw='-10.199022' pitch='0.23004696' fieldOfView='1.134464' time='1286884800069'/>
+    <observerCamera attribute='cameraPath' id='observerCamera-917c80f7-533b-44e8-b891-1c9e4f834d66' lens='PINHOLE' x='141.13011' y='269.20773' z='169.99733' yaw='-9.884863' pitch='0.23004696' fieldOfView='1.134464' time='1286884800069'/>
+    <observerCamera attribute='cameraPath' id='observerCamera-46c5a9cb-c2ae-47f2-b463-b6fd16d61d2c' lens='PINHOLE' x='103.38806' y='193.04651' z='169.99733' yaw='-9.361264' pitch='0.23004696' fieldOfView='1.134464' time='1286884800069'/>
+    <observerCamera attribute='cameraPath' id='observerCamera-2cc2fd6d-bde6-4892-b30e-4cd8bfc8b3dd' lens='PINHOLE' x='104.657486' y='173.08682' z='169.99733' yaw='-8.663133' pitch='0.4220331' fieldOfView='1.4835298' time='1286884800069'/>
+    <texture attribute='skyTexture' name='Blue sky' width='100.0' height='41.3' leftToRightOriented='false' image='1'/>
+  </environment>
+  <observerCamera attribute='observerCamera' lens='PINHOLE' x='478.75317' y='663.3081' z='169.99733' yaw='-10.449405' pitch='0.27995354' fieldOfView='1.134464' time='1281609000122'/>
+  <camera attribute='topCamera' lens='PINHOLE' x='-162.32504' y='173.5235' z='892.20844' yaw='11.416178' pitch='1.0149993' fieldOfView='1.0995575' time='1286884800092'/>
+  <observerCamera attribute='storedCamera' id='observerCamera-56c328a9-f2ff-4b8b-99bf-c4ebf5774085' name='Living room' lens='PINHOLE' x='478.75317' y='663.3081' z='169.99733' yaw='-10.449405' pitch='0.27995354' fieldOfView='1.134464' time='1281609000122'/>
+  <observerCamera attribute='storedCamera' id='observerCamera-be60c65b-e953-43a6-bd3d-d6b134a280b8' name='Bathroom' lens='PINHOLE' x='356.97394' y='182.1304' z='169.99733' yaw='-9.28829' pitch='0.26495355' fieldOfView='1.134464' time='1286905800249'/>
+  <observerCamera attribute='storedCamera' id='observerCamera-afd4f84c-6ce0-4a00-9f88-549165d58980' name='Kitchen' lens='PINHOLE' x='104.657486' y='173.08682' z='169.99733' yaw='-8.663133' pitch='0.4220331' fieldOfView='1.4835298' time='1286884800069'/>
+  <pieceOfFurniture name='Sliding doors' model='3' x='426.78894' y='334.44443' angle='3.1415927' width='136.2' depth='8.0' height='250.0' modelSize='6835' movable='false'/>
+  <pieceOfFurniture name='Fitted bath' model='5' x='302.3685' y='109.644455' width='71.7' depth='198.4' height='72.0' modelSize='87663' movable='false'/>
+  <pieceOfFurniture name='Toilet unit' model='7' x='455.7037' y='50.444435' width='40.0' depth='80.0' height='62.0' modelSize='125874' movable='false'/>
+  <pieceOfFurniture name='Washbasin' model='9' x='385.77777' y='33.94444' width='56.0' depth='47.0' height='97.0' modelSize='239991' movable='false'/>
+  <pieceOfFurniture name='Towel rack' model='11/com_bath3.obj' x='479.62967' y='120.17776' elevation='58.7' angle='1.5707964' width='60.0' depth='16.8' height='41.8' modelSize='645405'/>
+  <pieceOfFurniture name='Toilet paper dispenser' model='13/bathroom-tissue.obj' x='478.9463' y='57.316673' elevation='85.4' angle='1.5707964' width='21.3' depth='17.3' height='15.0' modelSize='171912'/>
+  <pieceOfFurniture name='Soap bottle' model='15' x='328.29626' y='21.433336' elevation='63.0' angle='0.5235988' width='8.0' depth='4.2' height='15.3' modelSize='61226'/>
+  <pieceOfFurniture name='Shampoo' model='17' x='275.55188' y='23.699993' elevation='63.0' angle='5.7595863' width='7.4' depth='3.4' height='16.7' modelSize='66109'/>
+  <pieceOfFurniture name='Clothes washer' model='19' x='50.592583' y='38.698143' width='60.0' depth='57.1' height='85.0' modelSize='24815'/>
+  <pieceOfFurniture name='Kitchen cabinet' model='21' x='227.77777' y='42.444443' width='60.0' depth='64.0' height='85.0' modelSize='11366' movable='false'/>
+  <pieceOfFurniture name='Glass door cabinet' model='23' x='133.68526' y='30.34815' elevation='131.7' width='81.0' depth='40.4' height='118.0' color='FFEFEFF0' modelSize='13767'/>
+  <pieceOfFurniture name='Glass door cabinet' model='23' x='214.89513' y='30.34815' elevation='131.7' width='81.0' depth='40.4' height='118.0' modelMirrored='true' color='FFEFEFF0' modelSize='13767'/>
+  <pieceOfFurniture name='Glass' model='25/highball-glass.obj' x='103.43519' y='26.422836' elevation='158.9' width='4.5' depth='4.5' height='9.1' modelSize='41955'/>
+  <pieceOfFurniture name='Glass' model='25/highball-glass.obj' x='111.9784' y='26.669746' elevation='158.9' width='4.5' depth='4.5' height='9.1' modelSize='41955'/>
+  <pieceOfFurniture name='Glass' model='25/highball-glass.obj' x='120.66976' y='26.669746' elevation='158.9' width='4.5' depth='4.5' height='9.1' modelSize='41955'/>
+  <pieceOfFurniture name='Glass' model='25/highball-glass.obj' x='120.521614' y='36.003082' elevation='158.9' width='4.5' depth='4.5' height='9.1' modelSize='41955'/>
+  <pieceOfFurniture name='Glass' model='25/highball-glass.obj' x='103.28703' y='35.756172' elevation='158.9' width='4.5' depth='4.5' height='9.1' modelSize='41955'/>
+  <pieceOfFurniture name='Glass' model='25/highball-glass.obj' x='111.83024' y='36.003082' elevation='158.9' width='4.5' depth='4.5' height='9.1' modelSize='41955'/>
+  <pieceOfFurniture name='Plate' model='27/bread-plate.obj' x='146.19757' y='32.148132' elevation='158.8' width='20.0' depth='20.0' height='2.2' modelSize='73452'/>
+  <pieceOfFurniture name='Plate' model='27/bread-plate.obj' x='146.19757' y='32.148132' elevation='160.4' width='20.0' depth='20.0' height='2.2' modelSize='73452'/>
+  <pieceOfFurniture name='Plate' model='27/bread-plate.obj' x='146.19757' y='32.148132' elevation='162.0' width='20.0' depth='20.0' height='2.2' modelSize='73452'/>
+  <pieceOfFurniture name='Plate' model='27/bread-plate.obj' x='146.19757' y='32.148132' elevation='163.5' width='20.0' depth='20.0' height='2.2' modelSize='73452'/>
+  <pieceOfFurniture name='Oil servers' model='29/oil-servers.obj' x='215.79196' y='14.439507' elevation='85.3' width='14.3' depth='7.2' height='34.6' modelSize='78959'/>
+  <pieceOfFurniture name='Window blind' model='31/window-blinds.obj' x='31.111145' y='154.98889' elevation='65.1' angle='4.712389' width='80.0' depth='8.2' height='159.8' color='FFD0BF97' modelSize='67603'/>
+  <pieceOfFurniture name='Window blind' model='31/window-blinds.obj' x='28.444473' y='474.54443' elevation='65.1' angle='4.712389' width='80.0' depth='8.2' height='159.8' color='FFD0BF97' modelSize='67603'/>
+  <pieceOfFurniture name='Window blind' model='31/window-blinds.obj' x='28.444443' y='556.32214' elevation='65.1' angle='4.712389' width='80.0' depth='8.2' height='159.8' color='FFD0BF97' modelSize='67603'/>
+  <pieceOfFurniture name='Electric radiator' model='33' x='482.35196' y='179.8889' elevation='20.0' angle='1.5707964' width='37.0' depth='10.0' height='45.0' modelSize='7415' movable='false'/>
+  <pieceOfFurniture name='Electric radiator' model='33' x='25.166742' y='648.7779' elevation='20.0' angle='4.712389' width='37.0' depth='10.0' height='45.0' modelSize='7415' movable='false'/>
+  <pieceOfFurniture name='Convertible sofa' model='35' x='421.5' y='440.30237' width='147.0' depth='87.0' height='87.0' shininess='0.0' modelSize='148511'/>
+  <pieceOfFurniture name='Glass table' model='37/glass-dining-table.obj' x='60.477715' y='356.2524' angle='1.5707964' width='143.1' depth='78.0' height='75.0' modelSize='10003'/>
+  <pieceOfFurniture name='Chair' model='39/office_chair.obj' x='116.244484' y='348.48016' angle='1.519443' width='63.5' depth='63.8' height='110.0' modelSize='259444'/>
+  <pieceOfFurniture name='Filing cabinet' model='41/filing-cabinet.obj' x='55.73342' y='388.45233' angle='4.712389' width='27.9' depth='50.8' height='60.0' modelSize='18538'/>
+  <pieceOfFurniture name='Apple iMac 2004' model='43/apple_pc.obj' x='50.444447' y='395.34686' elevation='75.0' angle='4.1887903' width='44.0' depth='36.2' height='38.0' modelSize='651527'/>
+  <pieceOfFurniture name='Mouse' model='45' x='43.88889' y='360.9635' elevation='75.0' angle='4.1887903' width='6.0' depth='10.1' height='2.4' color='FFDDDBDA' modelRotation='0 0 -1 0 1 0 1 0 0' modelCenteredAtOrigin='false' modelSize='33060'/>
+  <pieceOfFurniture name='Pencil' model='47/pencil1.obj' x='30.033346' y='345.46906' elevation='75.0' angle='3.1415927' width='1.4' depth='20.0' height='1.0' modelRotation='1 0 0 0 0 1 0 -1 0' modelCenteredAtOrigin='false' modelSize='42576'/>
+  <pieceOfFurniture name='Carpet' model='49' x='193.1111' y='554.8025' width='140.0' depth='140.0' height='0.4' color='FF616C8C' shininess='0.0' modelSize='1310'/>
+  <pieceOfFurniture name='Chair -2-' model='51' x='193.02774' y='490.358' width='38.5' depth='52.0' height='98.0' color='FF956B22' modelSize='22105'/>
+  <pieceOfFurniture name='Chair -2-' model='51' x='270.8055' y='556.5802' angle='1.5707964' width='38.5' depth='52.0' height='98.0' color='FF956B22' modelSize='22105'/>
+  <pieceOfFurniture name='Chair -2-' model='51' x='117.91663' y='549.4691' angle='4.712389' width='38.5' depth='52.0' height='98.0' color='FF956B22' modelSize='22105'/>
+  <pieceOfFurniture name='Vase -2-' model='53/vase2.obj' x='194.48895' y='554.4024' elevation='73.8' width='27.2' depth='27.2' height='30.0' modelSize='312389'/>
+  <pieceOfFurniture name='Picture portrait' model='55' x='21.56358' y='660.5098' elevation='150.0' angle='4.712389' width='21.3' depth='0.6' height='30.0' modelSize='9388'/>
+  <pieceOfFurniture name='Piano stool' model='57' x='96.51606' y='673.28143' width='35.6' depth='37.6' height='48.0' modelSize='11384'/>
+  <pieceOfFurniture name='Shelves -2-' model='59' x='276.8389' y='703.43585' width='207.9' depth='42.6' height='189.1' color='FF9E8C6C' modelSize='22004'/>
+  <pieceOfFurniture name='TV unit' model='61' x='437.9999' y='688.5801' angle='2.8797934' width='100.0' depth='52.0' height='93.0' modelSize='9569'/>
+  <pieceOfFurniture name='DVD player' model='63/dvd.obj' x='437.94443' y='676.6801' elevation='10.7' angle='2.8797934' width='43.0' depth='28.2' height='5.6' modelSize='315299'/>
+  <pieceOfFurniture name='Glass-door cabinet' model='65' x='331.0111' y='360.4635' angle='1.5707964' width='70.1' depth='40.2' height='149.1' modelSize='29872'/>
+  <pieceOfFurniture name='Plant' model='67' x='61.88889' y='464.46902' angle='4.712389' width='58.0' depth='50.0' height='82.0' modelSize='113183'/>
+  <pieceOfFurniture name='Alarm clock' model='69' x='340.94446' y='425.76907' elevation='50.0' angle='5.759587' width='9.0' depth='4.6' height='5.0' modelSize='67270'/>
+  <pieceOfFurniture name='Long drink glass' model='71' x='326.80856' y='339.40427' elevation='118.2' width='5.5' depth='5.5' height='17.8' modelSize='12485'/>
+  <pieceOfFurniture name='Long drink glass' model='71' x='338.51227' y='339.2561' elevation='118.2' width='5.5' depth='5.5' height='17.8' modelSize='12485'/>
+  <pieceOfFurniture name='Long drink glass' model='71' x='338.3641' y='350.9598' elevation='118.2' width='5.5' depth='5.5' height='17.8' modelSize='12485'/>
+  <pieceOfFurniture name='Long drink glass' model='71' x='326.6604' y='351.10797' elevation='118.2' width='5.5' depth='5.5' height='17.8' modelSize='12485'/>
+  <pieceOfFurniture name='Long drink glass' model='71' x='338.36414' y='363.99686' elevation='118.2' width='5.5' depth='5.5' height='17.8' modelSize='12485'/>
+  <pieceOfFurniture name='Long drink glass' model='71' x='326.66043' y='364.14502' elevation='118.2' width='5.5' depth='5.5' height='17.8' modelSize='12485'/>
+  <pieceOfFurniture name='Coffee maker' model='73/coffee-maker.obj' x='243.58076' y='26.856102' elevation='85.9' width='18.6' depth='28.7' height='30.0' modelSize='356712'/>
+  <pieceOfFurniture name='Antelope Canyon frame' model='75/AntelopeCanyonFrame.obj' x='23.508007' y='358.82333' elevation='104.6' angle='4.712389' width='50.100002' depth='0.8' height='90.0' modelSize='21235'/>
+  <pieceOfFurniture name='Mont Blanc frame' model='77/MontBlancFrame.obj' x='491.23422' y='570.1326' elevation='123.0' angle='1.5707964' width='94.468506' depth='1.5983069' height='47.8597' modelSize='22364'/>
+  <pieceOfFurniture name='Mirror' model='79/mirror.obj' x='383.76666' y='11.9833355' elevation='106.0' width='60.0' depth='1.3000001' height='80.0' modelSize='7802'/>
+  <pieceOfFurniture catalogId='Geantick#bocalPoisson' name='Fish bowl' model='81' x='51.388382' y='309.55234' elevation='75.0' width='33.5' depth='33.5' height='28.4' modelSize='222093'/>
+  <pieceOfFurniture name='Mirror' model='79/mirror.obj' x='392.76666' y='331.6111' elevation='2.0' width='70.0' depth='1.0' height='247.0' modelSize='7802'/>
+  <pieceOfFurniture catalogId='Scopia#complements2' name='Candle' model='83/complements2.obj' x='248.50653' y='706.9125' elevation='97.0' width='13.0' depth='13.0' height='15.0' modelSize='359977'/>
+  <doorOrWindow name='Double French window' model='85' x='10.833255' y='514.30133' elevation='11.0' angle='4.712389' width='166.0' depth='41.0' height='210.0' modelSize='13346' movable='false' cutOutShape='M0,0 v1 h1 v-1 z'/>
+  <doorOrWindow name='French window' model='87' x='10.364134' y='152.49771' elevation='11.0' angle='4.7060676' width='76.0' depth='40.800198' height='210.0' modelMirrored='true' modelSize='9824' movable='false' cutOutShape='M0,0 v1 h1 v-1 z'/>
+  <doorOrWindow catalogId='Kator Legaz#exterior-door-02' name='Exterior door -2-' model='89/exterior-door-02.obj' x='541.68884' y='274.1569' angle='1.5707964' width='98.6' depth='23.733532' height='205.0' color='FF773838' modelSize='92651' movable='false' cutOutShape='M0,0 v1 h1 v-1 z'/>
+  <doorOrWindow name='Door' model='91' x='51.119843' y='74.08322' angle='1.7484555E-7' width='62.0' depth='15.0' height='208.5' modelSize='14086' movable='false' cutOutShape='M0,0 v1 h1 v-1 z'/>
+  <light catalogId='Artist373#lamp' name='Lamp -3-' model='93' x='327.63837' y='412.07913' elevation='50.0' width='30.0' depth='30.0' height='38.7' modelSize='341872'/>
+  <light catalogId='Kator Legaz#hanging-restaurant-light' name='Hanging light' model='95/hanging-restaurant-light.obj' x='110.28838' y='130.72913' elevation='183.8' width='39.3' depth='39.3' height='66.200005' modelSize='311000'/>
+  <pieceOfFurniture name='Round table' model='97' x='193.22221' y='553.13574' elevation='0.4' width='126.0' depth='126.0' height='74.0' color='FF946A22' modelSize='8110'/>
+  <pieceOfFurniture name='Wardrobe' model='99' x='206.8889' y='244.54312' width='100.0' depth='54.0' height='165.0' color='FF9E7D20' modelSize='23218'/>
+  <pieceOfFurniture name='Cooker' model='101' x='227.32407' y='107.07913' angle='1.5707964' width='60.0' depth='62.0' height='85.0' modelSize='42013'/>
+  <pieceOfFurniture name='Sink' model='103' x='150.2222' y='42.444443' width='120.0' depth='64.0' height='106.0' modelSize='41849' movable='false'/>
+  <pieceOfFurniture name='Fridge &amp; Freezer' model='105' x='224.22217' y='176.77777' angle='1.5707964' width='60.0' depth='66.0' height='185.0' modelSize='26363'/>
+  <pieceOfFurniture name='Bedside table' model='107' x='330.55554' y='414.91348' width='38.0' depth='38.0' height='50.0' color='FF9E7D20' modelSize='2243'/>
+  <doorOrWindow name='Open door' model='109' x='90.790245' y='242.65753' width='86.0' depth='68.0002' height='208.5' modelSize='14055' movable='false' cutOutShape='M0,0 v1 h1 v-1 z'/>
+  <doorOrWindow name='Open door' model='109' x='325.4167' y='283.8569' angle='1.5707964' width='86.0' depth='68.0002' height='208.5' modelSize='14055' movable='false' cutOutShape='M0,0 v1 h1 v-1 z'/>
+  <doorOrWindow name='Open door' model='109' x='401.90137' y='184.15755' angle='3.1415927' width='86.0' depth='68.0002' height='208.5' modelSize='14055' movable='false' cutOutShape='M0,0 v1 h1 v-1 z'/>
+  <light catalogId='Kator Legaz#fluorescent-strip' name='Fluorescent strip' model='111/fluorescent-strip.obj' x='384.58282' y='14.450001' elevation='187.0' width='55.0' depth='8.900001' height='8.3' modelSize='30102' movable='false'/>
+  <light catalogId='Kator Legaz#track-lights' name='Track lights' model='113/track-lights.obj' x='92.63838' y='716.4167' elevation='175.0' angle='3.1415927' width='100.0' depth='17.0' height='13.8' modelSize='377796'/>
+  <pieceOfFurniture name='Piano' model='115' x='91.8468' y='703.4167' angle='3.1415927' width='140.0' depth='43.0' height='82.0' modelSize='29003'/>
+  <light name='White light source' model='117' x='191.5371' y='553.76917' elevation='220.0' width='35.0' depth='35.0' height='35.0' modelSize='1286' deformable='false' texturable='false'/>
+  <wall id='wall0' wallAtStart='wall8' wallAtEnd='wall1' xStart='499.40744' yStart='0.0' xEnd='499.40744' yEnd='207.11421' height='250.0' thickness='25.0'>
+    <texture attribute='rightSideTexture' name='Grey tiles' width='31.5' height='31.5' leftToRightOriented='false' image='120'/>
+  </wall>
+  <wall id='wall1' wallAtStart='wall0' wallAtEnd='wall2' xStart='499.40744' yStart='207.11421' xEnd='543.5555' yEnd='207.11421' height='250.0' thickness='20.0'/>
+  <wall id='wall2' wallAtStart='wall1' wallAtEnd='wall3' xStart='543.5555' yStart='207.11421' xEnd='543.5555' yEnd='340.25' height='250.0' thickness='20.0'/>
+  <wall id='wall3' wallAtStart='wall2' wallAtEnd='wall9' xStart='543.5555' yStart='340.25' xEnd='507.1111' yEnd='340.25' height='250.0' thickness='20.0'/>
+  <wall id='wall4' wallAtStart='wall10' wallAtEnd='wall5' xStart='507.1111' yStart='734.9167' xEnd='5.3333287' yEnd='734.9167' height='250.0' thickness='20.0' rightSideColor='FFC7E0ED'/>
+  <wall id='wall5' wallAtStart='wall4' wallAtEnd='wall6' xStart='5.3333287' yStart='734.9167' xEnd='5.3333287' yEnd='210.91667' height='250.0' thickness='30.0' rightSideColor='FFC7E0ED'>
+    <texture attribute='leftSideTexture' name='Small bricks' width='23.0' height='14.9' leftToRightOriented='false' image='121'/>
+  </wall>
+  <wall id='wall6' wallAtStart='wall5' wallAtEnd='wall7' xStart='5.3333287' yStart='210.91667' xEnd='4.0' yEnd='0.0' height='250.0' thickness='30.0'>
+    <texture attribute='leftSideTexture' name='Small bricks' width='23.0' height='14.9' leftToRightOriented='false' image='121'/>
+  </wall>
+  <wall id='wall7' wallAtStart='wall6' wallAtEnd='wall8' xStart='4.0' yStart='0.0' xEnd='257.3333' yEnd='0.0' height='250.0' thickness='20.0'/>
+  <wall id='wall8' wallAtStart='wall7' wallAtEnd='wall0' xStart='257.3333' yStart='0.0' xEnd='499.40744' yEnd='0.0' height='250.0' thickness='20.0'>
+    <texture attribute='rightSideTexture' name='Grey tiles' width='31.5' height='31.5' leftToRightOriented='false' image='120'/>
+  </wall>
+  <wall id='wall9' wallAtStart='wall3' wallAtEnd='wall10' xStart='507.1111' yStart='340.25' xEnd='507.1111' yEnd='394.88904' height='250.0' thickness='25.0'/>
+  <wall id='wall10' wallAtStart='wall9' wallAtEnd='wall4' xStart='507.1111' yStart='394.88904' xEnd='507.1111' yEnd='734.9167' height='250.0' thickness='25.0' rightSideColor='FFC7E0ED'/>
+  <wall id='wall11' wallAtEnd='wall12' xStart='2.6666641' yStart='213.40753' xEnd='262.07407' yEnd='213.40753' height='250.0' thickness='7.5' rightSideColor='FFC7E0ED'/>
+  <wall id='wall12' wallAtStart='wall11' xStart='262.07407' yStart='213.40753' xEnd='262.07407' yEnd='0.22236061' height='250.0' thickness='7.5'>
+    <texture attribute='rightSideTexture' name='Grey tiles' width='31.5' height='31.5' leftToRightOriented='false' image='120'/>
+  </wall>
+  <wall id='wall13' wallAtEnd='wall14' xStart='502.66666' yStart='213.40755' xEnd='354.66666' yEnd='213.40755' height='250.0' thickness='7.5'>
+    <texture attribute='rightSideTexture' name='Grey tiles' width='31.5' height='31.5' leftToRightOriented='false' image='120'/>
+  </wall>
+  <wall id='wall14' wallAtStart='wall13' xStart='354.66666' yStart='213.40755' xEnd='261.3333' yEnd='213.40755' height='250.0' thickness='7.5' leftSideColor='FFC7E0ED'>
+    <texture attribute='rightSideTexture' name='Grey tiles' width='31.5' height='31.5' leftToRightOriented='false' image='120'/>
+  </wall>
+  <wall id='wall15' wallAtEnd='wall16' xStart='505.33334' yStart='392.22238' xEnd='354.66666' yEnd='392.22238' height='250.0' thickness='7.5' leftSideColor='FFC7E0ED'/>
+  <wall id='wall16' wallAtStart='wall15' xStart='354.66666' yStart='392.22238' xEnd='354.66666' yEnd='214.88902' height='250.0' thickness='7.5' leftSideColor='FFC7E0ED'/>
+  <wall id='wall17' wallAtEnd='wall18' xStart='86.666664' yStart='3.333332' xEnd='86.666664' yEnd='71.333336' height='250.0' thickness='7.5'/>
+  <wall id='wall18' wallAtStart='wall17' xStart='86.666664' yStart='71.333336' xEnd='9.333328' yEnd='71.333336' height='250.0' thickness='7.5'/>
+  <room id='room-5e257f0d-31ca-439f-83a0-4cbc2d985bae' name='Living room' nameXOffset='-44.0' nameYOffset='-62.0' areaVisible='true' areaXOffset='-41.999985' areaYOffset='-28.0' floorColor='FF787B87' ceilingColor='FFFEFEFF'>
+    <point x='47.46998' y='213.51678'/>
+    <point x='47.46998' y='217.29178'/>
+    <point x='20.333328' y='217.15753'/>
+    <point x='20.333328' y='724.9167'/>
+    <point x='494.6111' y='724.9167'/>
+    <point x='494.6111' y='395.97238'/>
+    <point x='350.91666' y='395.97238'/>
+    <point x='350.91666' y='325.76428'/>
+    <point x='354.69165' y='325.76428'/>
+    <point x='354.69165' y='245.20428'/>
+    <point x='350.91666' y='245.20428'/>
+    <point x='350.91666' y='217.15755'/>
+    <point x='261.3333' y='217.2918'/>
+    <point x='261.3333' y='217.29178'/>
+    <point x='128.02998' y='217.29178'/>
+    <point x='128.02998' y='213.51678'/>
+  </room>
+  <room id='room-d528b653-080c-419b-af7b-f8cd23d3750b' areaVisible='true' areaXOffset='30.0' areaYOffset='10.0' ceilingColor='FFFEFEFF'>
+    <texture attribute='floorTexture' name='Dark blue tiles' width='33.5' height='33.5' leftToRightOriented='false' image='119'/>
+    <point x='264.93518' y='10.0'/>
+    <point x='264.93518' y='209.65755'/>
+    <point x='364.8033' y='209.65755'/>
+    <point x='364.8033' y='213.43254'/>
+    <point x='445.3633' y='213.43254'/>
+    <point x='445.3633' y='209.65755'/>
+    <point x='486.90744' y='209.65755'/>
+    <point x='486.90744' y='10.0'/>
+  </room>
+  <room id='room-ee1b8955-dbf9-4f3b-a8c5-b33c8eb4fedd' name='Kitchen' nameXOffset='-40.0' nameYOffset='-6.0' areaVisible='true' areaXOffset='-28.0' areaYOffset='80.0' ceilingColor='FFFEFEFF'>
+    <texture attribute='floorTexture' name='Grey tiles' width='31.5' height='31.5' leftToRightOriented='false' image='120'/>
+    <point x='90.416664' y='10.0'/>
+    <point x='90.416664' y='75.083336'/>
+    <point x='82.53866' y='75.083336'/>
+    <point x='82.53866' y='71.308334'/>
+    <point x='20.92799' y='71.308334'/>
+    <point x='20.92799' y='75.083336'/>
+    <point x='19.474945' y='75.083336'/>
+    <point x='20.325668' y='209.65753'/>
+    <point x='47.46998' y='209.65753'/>
+    <point x='47.46998' y='213.43253'/>
+    <point x='128.02998' y='213.43253'/>
+    <point x='128.02998' y='209.65753'/>
+    <point x='258.32407' y='209.65753'/>
+    <point x='258.32407' y='10.0'/>
+  </room>
+  <room id='room-9a7a4bed-7d76-4a5b-86ce-a7b2c1afd1f2' areaVisible='true' areaXOffset='-2.0' areaYOffset='-26.0' floorColor='FF787B87' ceilingColor='FFFEFEFF'>
+    <point x='364.8033' y='213.38255'/>
+    <point x='364.8033' y='217.15755'/>
+    <point x='358.41666' y='217.15755'/>
+    <point x='358.41666' y='245.07004'/>
+    <point x='354.64166' y='245.07004'/>
+    <point x='354.64166' y='325.63004'/>
+    <point x='358.41666' y='325.63004'/>
+    <point x='358.41666' y='388.47238'/>
+    <point x='494.6111' y='388.47238'/>
+    <point x='494.6111' y='330.25'/>
+    <point x='533.5555' y='330.25'/>
+    <point x='533.5555' y='324.25'/>
+    <point x='543.5555' y='324.25'/>
+    <point x='543.5555' y='226.25'/>
+    <point x='534.0555' y='226.25'/>
+    <point x='533.5555' y='217.11421'/>
+    <point x='502.66666' y='217.11421'/>
+    <point x='502.66666' y='217.15755'/>
+    <point x='445.3633' y='217.15755'/>
+    <point x='445.3633' y='213.38255'/>
+  </room>
+</home>

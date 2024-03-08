@@ -1,0 +1,8 @@
+SweetHomeToArrAsset/Data/*
+!SweetHomeToArrAsset/Data/userGuideExample.zip
+
+.venv
+
+SweetHomeToArrAsset/bin
+SweetHomeToArrAsset/obj
+SweetHomeToArrAsset/.vs
